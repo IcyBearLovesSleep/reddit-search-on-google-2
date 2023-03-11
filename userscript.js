@@ -3,7 +3,7 @@
 // @version      1.0
 // @description  Adds a button to search reddit posts with Google after the google's new search layout update in Feb 2023
 // @author       JZ
-// @namespace    https://github.com/marioortizmanero/reddit-search-on-google/
+// @namespace    https://github.com/IcyBearLovesSleep/reddit-search-on-google-2
 // @match              https://*.google.com/search*
 // @match              https://*.google.ad/search*
 // @match              https://*.google.ae/search*
