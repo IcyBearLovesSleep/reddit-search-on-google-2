@@ -2,7 +2,7 @@
 // @name         Reddit  search on Google 2
 // @version      1.0
 // @license      MIT
-// @description  Adds a button to search reddit posts with Google after the google's new search layout update in Feb 2023
+// @description  Adds a button to search reddit posts with Google
 // @author       JZ
 // @namespace    https://github.com/IcyBearLovesSleep/reddit-search-on-google-2
 // @match              https://*.google.com/search*
@@ -210,7 +210,7 @@ const Url = '+site%3A'+site;
     'use strict';
     window.addEventListener("load", function () {
         const menu = document.querySelector('.nfdoRb')
-        // creates reddit button
+        // creates button
         let button = document.createElement('a')
         button.className = 'zItAnd FOU1zf'
         button.href = window.location.href.replace(queryRegex, (match) => {
