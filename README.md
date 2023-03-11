@@ -6,7 +6,7 @@ A simple userscript that adds a button to your Google searches to show only Redd
 ## Downloading the script
 The direct download link is here:
 
-* [GreasyFork](https://greasyfork.org/en/scripts/461656-reddit-search-on-google-2))
+* [GreasyFork](https://greasyfork.org/en/scripts/461656-reddit-search-on-google-2)
 
 **Chrome users:** you'll need a script manager extension like [TamperMonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) (the one I'm currently using) or [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/). Then go to the download link above and click on 'Install X.X'. Finally, click on 'install' in the new window that will open.
 
