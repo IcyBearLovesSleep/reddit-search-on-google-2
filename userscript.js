@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         reddit  search on Google 2
 // @version      1.0
+// @License      MIT
 // @description  Adds a button to search reddit posts with Google after the google's new search layout update in Feb 2023
 // @author       JZ
 // @namespace    https://github.com/IcyBearLovesSleep/reddit-search-on-google-2
