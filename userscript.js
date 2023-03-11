@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         reddit  search on Google 2
+// @name         Reddit  search on Google 2
 // @version      1.0
 // @license      MIT
 // @description  Adds a button to search reddit posts with Google after the google's new search layout update in Feb 2023
