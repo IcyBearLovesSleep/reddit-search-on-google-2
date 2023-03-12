@@ -204,7 +204,7 @@ const Name = "Reddit";
 
 const queryRegex = /q=[^&]+/g;
 const siteRegex = /\+site(?:%3A|\:).+\.[^&+]+/g;
-const Url = '+site%3A'+site;
+const Url = '+site%3A'+ site;
 
 (function () {
     'use strict';
